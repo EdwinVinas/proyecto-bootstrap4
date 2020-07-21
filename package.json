@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-bootstrap4",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwinVinas/proyecto-bootstrap4.git"
+  },
+  "author": "Edwin Viñas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwinVinas/proyecto-bootstrap4/issues"
+  },
+  "homepage": "https://github.com/EdwinVinas/proyecto-bootstrap4#readme"
+}
